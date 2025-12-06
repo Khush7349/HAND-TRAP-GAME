@@ -78,12 +78,9 @@ The live camera feed is augmented with:
 - Runs on **CPU only** with a **640×480 webcam feed**.
 - No neural nets, no cloud API calls.
 
-### ✅ Libraries – Allowed / Not used
+### ✅ Libraries
 
 - **Used**: `OpenCV`, `NumPy`, `random`, `time`
-- **Not used**: `MediaPipe`, `OpenPose`, any pose/hand-detection APIs, cloud AI APIs.
-
-This fits the brief: classical computer vision only.
 
 ---
 
